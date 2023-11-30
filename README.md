@@ -16,4 +16,4 @@ Did this project to analyze real stock data from Wall Street. Tabulated stock da
 ![image](https://github.com/KotR9001/VBA-challenge/assets/57807780/a063a6f6-6195-4efb-b4ff-e878991896fd)
 <br />
 <br />
-Wrote a VBA subroutine to pull raw data, perform calculations, and place the calculated values in tables on multiple sheets. Additionally, another subroutine was created to empty all the created tables.
+Wrote a VBA subroutine to pull raw data, perform calculations, and place the calculated values in tables on multiple sheets. Additionally, created another subroutine to empty all the created tables.
